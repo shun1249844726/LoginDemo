@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PasswordManager</string>
+
+
+    <string name="login_success">登陆成功</string>
+    <string name="login">登陆</string>
+    <string name="Username">用户名</string>
+    <string name="Password">密码</string>
+    <string name="Email">Email</string>
+    <string name="forgot_your_password">忘了密码 ?</string>
+    <string name="go">GO</string>
+    <string name="repeat_password">再次输入密码</string>
+    <string name="next">NEXT</string>
+    <string name="register">注册</string>
+</resources>
